@@ -1,3 +1,3 @@
-# Trump_Tweets_Topic_modelling
+# Trump Tweets Topic modelling
 
 ![trump_wordcloud](trump-03.png)
