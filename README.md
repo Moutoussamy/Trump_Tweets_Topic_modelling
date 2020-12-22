@@ -18,3 +18,6 @@ Here are the steps that I followed:
 - step 5: Stopwords removal
 - step 6: Lemmatization
 - step 7: Topic modelling
+
+
+Please see the Jupiter Notebook: Trump_Tweets_Topic_modelling.ipynb
