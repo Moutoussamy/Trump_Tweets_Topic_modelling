@@ -6,7 +6,7 @@
 Natural Language Processing (NLP) project.
 
 
-Using Term Frequency-Inverse Document Frequency (TF-IDF) and non-negative matrix factorization (NMF), I performed a topic modelling on the tweets of Donald Trump from July 19th to December 16th.
+Using Term Frequency-Inverse Document Frequency (TF-IDF) and non-negative matrix factorization (NMF), I performed a topic modelling on the tweets of Donald Trump from July 19th to December 16th 2020.
 The dataset is originated from [Kaggel](https://www.kaggle.com/gpreda/trump-tweets).
 
 
